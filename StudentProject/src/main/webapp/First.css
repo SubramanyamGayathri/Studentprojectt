@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.highlight
+{
+    float: right;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.r,.l,.s
+{
+    padding-left: 5px;
+}
